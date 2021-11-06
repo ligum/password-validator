@@ -1,5 +1,6 @@
 ![image](https://bootcamp.rhinops.io/images/git.gif)
 # password-validator-week2
+![image](https://bootcamp.rhinops.io/images/scripts-automation.png)
 ## Project Overview
 
 In this project we will understand how to write basic scripts and how to manage them with Git. The project will consist of creating a bash script and storing it in the main branch of your public git repository hosted in Github. Then, you will be asked to add a new functionality in a feature branch and create a pull request.
