@@ -1,3 +1,4 @@
+![image](https://bootcamp.rhinops.io/images/git.gif)
 # password-validator-week2
 ## Project Overview
 
